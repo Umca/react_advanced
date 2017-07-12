@@ -1,8 +1,8 @@
 import React from 'react';
 import {render} from 'react-dom';
-import TestComponent from './TestComponent';
+import App from './App';
 
 render(
-    <TestComponent />,
+    <App />,
     document.getElementById('mount_place')
 )

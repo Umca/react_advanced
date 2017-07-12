@@ -26,7 +26,7 @@ const webpackConfig = {
                 use:[
                     'style-loader',
                     'css-loader',
-                    'scss-loader'
+                    'sass-loader'
                 ]
             },
             {
